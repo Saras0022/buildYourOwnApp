@@ -7,6 +7,7 @@ It features robust error handling with Snackbars for feedback, ensuring a smooth
 - Coil
 - Jetpack Compose
 - Navigation
+- Coroutines and Flows
 - Koin
 - ExoPlayer3
 
