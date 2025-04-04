@@ -31,17 +31,5 @@ class KoinModule {
             .setSeekBackIncrementMs(10000L)
             .setSeekForwardIncrementMs(10000L)
             .build()
-            .also {
-                // Listener to listen for Player Error
-                // Retrying Again on Player Error
-                it.addListener(
-                    object : Player.Listener {
-                        override fun onPlayerError(error: PlaybackException) {
-                            super.onPlayerError(error)
-                            it.prepare()
-                        }
-                    }
-                )
-            }
     }
 }
