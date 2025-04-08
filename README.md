@@ -1,6 +1,6 @@
 # Deliverables
 - Video Demo Link - [Aniverse Video Demo](https://drive.google.com/file/d/1tfqsUpodKXjzvMeMVbp3cQ7a0DV7lFzv/view?usp=drive_link)
-- Apk Link - [Aniverse Apk](https://drive.google.com/file/d/15c5DiPjij2NWhwKTIP6df_GjmZjdB-M_/view?usp=drive_link)
+- Apk Link - [Aniverse Apk](https://drive.google.com/file/d/10g6zqDaCc6c4ei3pnBe7BcB4S3gOurC7/view?usp=sharing)
 
 # Aniverse
 Aniverse is a modern anime streaming Android app built with ExoPlayer3, Jetpack Compose and uses Ktor with the OkHttp engine for API calls.
